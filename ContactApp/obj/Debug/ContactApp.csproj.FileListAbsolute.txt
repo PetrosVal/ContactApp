@@ -1,0 +1,9 @@
+C:\Users\pe21\Desktop\ContactApp\ContactApp\bin\Debug\ContactApp.exe.config
+C:\Users\pe21\Desktop\ContactApp\ContactApp\bin\Debug\ContactApp.exe
+C:\Users\pe21\Desktop\ContactApp\ContactApp\bin\Debug\ContactApp.pdb
+C:\Users\pe21\Desktop\ContactApp\ContactApp\obj\Debug\ContactApp.csprojResolveAssemblyReference.cache
+C:\Users\pe21\Desktop\ContactApp\ContactApp\obj\Debug\ContactApp.Properties.Resources.resources
+C:\Users\pe21\Desktop\ContactApp\ContactApp\obj\Debug\ContactApp.csproj.GenerateResource.cache
+C:\Users\pe21\Desktop\ContactApp\ContactApp\obj\Debug\ContactApp.csproj.CoreCompileInputs.cache
+C:\Users\pe21\Desktop\ContactApp\ContactApp\obj\Debug\ContactApp.exe
+C:\Users\pe21\Desktop\ContactApp\ContactApp\obj\Debug\ContactApp.pdb
